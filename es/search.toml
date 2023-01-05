@@ -1,0 +1,18 @@
+[input]
+base_directory = "/Users/ruiz/projects/mxxi/m-xxi.github.io/es"
+html_selector = "main"
+
+[[input.files]]
+path = "pages/about.html"
+url = "/pages/about.html"
+title = "about"
+
+[[input.files]]
+path = "familia-como-escuela.html"
+url = "/familia-como-escuela.html"
+title = "familia como escuela"
+
+[[input.files]]
+path = "familia-como-escuela-en.html"
+url = "/familia-como-escuela-en.html"
+title = "familiy as a school"
