@@ -1,0 +1,27 @@
+{
+    "name": "m-xxi.com",
+    "short_name": "M-XXI",
+    "icons": [
+        {
+            "src": "img/icons/logo-android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icons/logo-android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icons/maskable_icon.png",
+            "sizes": "1024x1024",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff"
+}
